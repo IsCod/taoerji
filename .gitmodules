@@ -1,0 +1,6 @@
+[submodule "src/github.com/gin-gonic/gin"]
+	path = src/github.com/gin-gonic/gin
+	url = git@github.com:gin-gonic/gin.git
+[submodule "src/github.com/IsCod/tao-gin"]
+	path = src/github.com/IsCod/tao-gin
+	url = git@github.com:IsCod/tao-gin.git
